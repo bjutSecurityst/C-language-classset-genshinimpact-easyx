@@ -1,0 +1,274 @@
+﻿  Project荒岛求生.cpp
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(2,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(5,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(6,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(7,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(8,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(9,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(10,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(187,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(228,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(268,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(381,12): warning C4101: “msg”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(380,13): warning C4101: “value”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(285,6): warning C4101: “key”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(632,74): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(632,45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(633,66): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(633,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(680,6): warning C4101: “map”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(681,7): warning C4101: “p”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(674,29): warning C4101: “xmap”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(681,12): warning C4101: “h”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(674,35): warning C4101: “ymap”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(702,6): warning C4101: “i”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(734,6): warning C4101: “map”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(732,30): warning C4101: “xmap”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(732,36): warning C4101: “ymap”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(792,29): warning C4101: “xmap”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(792,35): warning C4101: “ymap”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(896,12): warning C4101: “msg”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(1070,6): warning C4101: “i”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(2062,20): warning C4101: “att”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(2062,25): warning C4101: “attele”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(2099,10): warning C4101: “key”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3211,33): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3212,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3090,7): warning C4101: “ch”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3354,29): warning C4101: “xmap”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3354,35): warning C4101: “ymap”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3536,30): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3537,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3528,34): warning C4101: “tt”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3754,487): warning C4305: “初始化”: 从“double”到“float”截断
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3755,150): warning C4305: “初始化”: 从“double”到“float”截断
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3755,294): warning C4305: “初始化”: 从“double”到“float”截断
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3761,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3765,23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3766,23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3789,116): warning C4305: “初始化”: 从“double”到“float”截断
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3790,125): warning C4305: “初始化”: 从“double”到“float”截断
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3790,241): warning C4305: “初始化”: 从“double”到“float”截断
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3796,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3800,23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3801,23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3824,110): warning C4305: “初始化”: 从“double”到“float”截断
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3825,110): warning C4305: “初始化”: 从“double”到“float”截断
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3825,217): warning C4305: “初始化”: 从“double”到“float”截断
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3831,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3835,23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3836,23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3859,324): warning C4305: “初始化”: 从“double”到“float”截断
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3860,173): warning C4305: “初始化”: 从“double”到“float”截断
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3860,343): warning C4305: “初始化”: 从“double”到“float”截断
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3866,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3870,23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3871,23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3918,19): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3919,21): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3920,21): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3924,19): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3925,21): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3926,21): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3930,19): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3931,21): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3932,21): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3936,19): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3937,21): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3938,21): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3993,89): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3993,89): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3993,162): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3993,162): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3993,236): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3993,236): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3993,309): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3993,309): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3993,346): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3993,346): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3993,392): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3993,392): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3997,89): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3997,89): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3997,162): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3997,162): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3997,236): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3997,236): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3997,309): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3997,309): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3997,384): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3997,384): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3997,466): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3997,466): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3997,540): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3997,540): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3997,621): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(3997,621): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4005,14): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4013,89): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4013,89): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4013,126): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4013,126): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4013,200): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4013,200): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4013,237): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4013,237): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4013,274): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4013,274): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4013,320): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4013,320): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4017,89): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4017,89): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4017,126): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4017,126): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4017,200): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4017,200): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4017,237): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4017,237): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4017,311): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4017,311): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4017,355): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4017,355): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4017,429): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4017,429): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4017,473): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4017,473): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4025,14): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4033,89): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4033,89): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4033,126): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4033,126): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4033,200): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4033,200): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4033,237): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4033,237): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4033,274): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4033,274): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4033,320): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4033,320): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4037,89): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4037,89): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4037,126): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4037,126): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4037,200): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4037,200): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4037,237): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4037,237): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4037,312): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4037,312): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4037,357): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4037,357): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4037,431): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4037,431): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4037,475): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4037,475): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4045,14): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4053,89): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4053,89): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4053,161): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4053,161): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4053,235): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4053,235): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4053,308): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4053,308): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4053,345): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4053,345): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4053,391): warning C4838: 从“float”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4053,391): warning C4244: “初始化”: 从“float”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4057,89): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4057,89): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4057,161): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4057,161): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4057,235): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4057,235): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4057,308): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4057,308): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4057,383): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4057,383): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4057,465): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4057,465): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4057,539): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4057,539): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4057,619): warning C4838: 从“double”转换到“LONG”需要收缩转换
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4057,619): warning C4244: “初始化”: 从“double”转换到“LONG”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4065,14): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4074,109): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4074,51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4080,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4087,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4094,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4101,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4107,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4114,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4122,111): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4122,51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4254,22): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4255,25): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4264,23): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4265,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4274,111): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4274,51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4277,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4287,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4307,103): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4307,51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4313,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4320,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4327,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4334,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4340,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4347,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4355,103): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4355,51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4486,22): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4487,25): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4496,23): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4497,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4506,103): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4506,51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4509,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4518,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4539,103): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4539,51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4545,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4552,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4559,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4566,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4572,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4579,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4587,105): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4587,51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4718,22): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4719,25): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4728,23): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4729,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4739,105): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4739,51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4742,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4751,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4773,109): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4773,51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4778,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4785,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4792,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4799,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4805,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4812,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4821,111): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4821,51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4952,22): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4953,25): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4962,23): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4963,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4971,111): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4971,51): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4974,26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(4981,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(5001,15): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(5007,12): warning C4101: “msg”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(5211,12): warning C4101: “msg”: 未引用的局部变量
+E:\C++项目\Project原神求生\Project荒岛求生.cpp(5210,36): warning C4101: “value”: 未引用的局部变量
+  LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
+  Project原神求生.vcxproj -> E:\C++项目\Project原神求生\x64\Release\Project荒岛求生.exe
